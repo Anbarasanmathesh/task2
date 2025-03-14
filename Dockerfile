@@ -1,2 +1,2 @@
-FROM ubuntu:latest
-CMD echo "Hello, World!
+FROM ubuntu: latest
+CMD echo "Hello, World!"
